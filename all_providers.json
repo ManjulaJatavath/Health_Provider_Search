@@ -1,0 +1,2693 @@
+[
+    {
+        "Name": "Bishoy Kamel",
+        "Speciality": "Family Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(213) 279-1220",
+        "Education": "Epic Medical Group",
+        "Location": "4955 Van Nuys Blvd"
+    },
+    {
+        "Name": "Francis Okpan",
+        "Speciality": "Nurse Practitioner",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(323) 702-2264",
+        "Education": null,
+        "Location": "3630 E. Imperial Hwy."
+    },
+    {
+        "Name": "Mitali Wadekar",
+        "Speciality": "Psychiatry",
+        "Gender": "Female",
+        "Expertise": "Psychiatry - Telemedicine",
+        "Phone": "(747) 998-0387",
+        "Education": "Alliance for Wellness, Inc.",
+        "Location": "16260 Ventura Blvd., #630"
+    },
+    {
+        "Name": "Hilda Riderer",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(213) 279-1220",
+        "Education": "Epic Medical Group",
+        "Location": "4955 Van Nuys Blvd"
+    },
+    {
+        "Name": "Arunpal Sehgal",
+        "Speciality": "Pulmonary Disease",
+        "Gender": "Male",
+        "Expertise": "Pulmonary Medicine",
+        "Phone": "(310) 638-9977",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd. "
+    },
+    {
+        "Name": "Odette Tawadrous",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 223-1429",
+        "Education": null,
+        "Location": "3625 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Adegbenga Adetola",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 631-2838",
+        "Education": null,
+        "Location": "3737 Martin Luther King Jr. Blvd.,Suite 400"
+    },
+    {
+        "Name": "Mohammad Adie",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 512-3939",
+        "Education": "CHOC Pediatric Subspecialty Faculty",
+        "Location": "505 S. Main Street"
+    },
+    {
+        "Name": "Mehrdad Aghai",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 767-7814",
+        "Education": "Century Eye Care Medical Center, Inc.",
+        "Location": "1141 W. Redondo Beach Blvd."
+    },
+    {
+        "Name": "Faisal Ahmed",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 670-9119",
+        "Education": "Advanced Urology Medical Group",
+        "Location": "8540 S. Sepulveda Blvd"
+    },
+    {
+        "Name": "Shangida Ahsan",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Farzad Alemi",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 900-5010",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy. "
+    },
+    {
+        "Name": "Mohsen Aljayeh",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(818) 654-4321",
+        "Education": "Regal & Lakeside Medical Groups",
+        "Location": "8510 Balboa Boulevard"
+    },
+    {
+        "Name": "Ayman Alladawi",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Annie Laurie Allan",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Female",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Gwen Allen",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 329-9492",
+        "Education": null,
+        "Location": "1141 W. Redondo Beach Blvd."
+    },
+    {
+        "Name": "Nirav Amin",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(760) 552-8585",
+        "Education": "Sports Medicine and Orthopaedic Institute, Inc.",
+        "Location": "13010 Hesperia rd Ste 600"
+    },
+    {
+        "Name": "Charles Ananian",
+        "Speciality": "Podiatric Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 264-6157",
+        "Education": "New Hope Podiatry Group",
+        "Location": " 3616 E. First Street"
+    },
+    {
+        "Name": "Muhammad Anees",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "10441 Lakewood Blvd"
+    },
+    {
+        "Name": "Elizabeth Arena",
+        "Speciality": "General Surgical Oncology",
+        "Gender": "Female",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 289-1518",
+        "Education": "Surgery Group of Los Angeles",
+        "Location": "8635 W. 3rd St."
+    },
+    {
+        "Name": "Joel Aronowitz",
+        "Speciality": "Plastic and Reconstructive Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 659-0705",
+        "Education": null,
+        "Location": "8635 W. Third Street"
+    },
+    {
+        "Name": "Avo Artinyan",
+        "Speciality": "General Surgical Oncology",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(818) 606-2200",
+        "Education": null,
+        "Location": "1505 Wilson Terrace"
+    },
+    {
+        "Name": "Kyrillos Awad",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Female",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Robby Ayoub",
+        "Speciality": "Pulmonary Medicine",
+        "Gender": "Male",
+        "Expertise": "Critical Care Medicine",
+        "Phone": "(714) 847-6900",
+        "Education": "Orange County Critical Care & Pulmonary",
+        "Location": "8201 Newman Avenue"
+    },
+    {
+        "Name": "Elias Ayoub",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 862-5160",
+        "Education": null,
+        "Location": "11480 Brookshire Ave Ste 313"
+    },
+    {
+        "Name": "Eleanor Azurin",
+        "Speciality": "Family Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 587-7771",
+        "Education": "Eleanor V Azurin MD Inc",
+        "Location": "3045 E.FLORENCE AVENUE"
+    },
+    {
+        "Name": "Raj Balasundaram",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(213) 279-1220",
+        "Education": "Epic Medical Group",
+        "Location": "4955 Van Nuys Blvd"
+    },
+    {
+        "Name": "Fayez Bany-Mohammed",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 456-6920",
+        "Education": "CHOC - UC Irvine Medical Center",
+        "Location": "Neonatology"
+    },
+    {
+        "Name": "Jack Barbour",
+        "Speciality": "Psychiatry",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 631-8004",
+        "Education": "Barbour & Floyd Medical Associates",
+        "Location": "2610 Industry Way"
+    },
+    {
+        "Name": "Hrayr Basmajian",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 900-4788",
+        "Education": "Premier Orthopaedic Trauma Specialists",
+        "Location": "St. Francis Medical Center"
+    },
+    {
+        "Name": "Ronald Belczyk",
+        "Speciality": "Podiatry",
+        "Gender": "Male",
+        "Expertise": "Podiatric Surgery",
+        "Phone": "(747) 263-9696",
+        "Education": null,
+        "Location": "4911 Van Nuys Blvd Suite 100"
+    },
+    {
+        "Name": "Antonio Beltran",
+        "Speciality": "Pulmonary Medicine",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 424-8000",
+        "Education": "Southern California Pulmonologists and Intensivists",
+        "Location": "3605 Long Beach Boulevard"
+    },
+    {
+        "Name": "Taras Benzar",
+        "Speciality": "Hematology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 961-2694",
+        "Education": null,
+        "Location": "The Oncology Institute of Hope and Innovation"
+    },
+    {
+        "Name": "Dorothea Berry",
+        "Speciality": "Oral and Maxillofacial Surgery",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 240-3054",
+        "Education": null,
+        "Location": "2690 Pacific Avenue, Suite 255"
+    },
+    {
+        "Name": "Jasbir Bhaika",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Subir Bhatia",
+        "Speciality": "Cardiovascular Disease",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 419-8610",
+        "Education": "Epic Cardiology",
+        "Location": "501 E. Hardy Street"
+    },
+    {
+        "Name": "Jatin Bhatt",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 637-0677",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy."
+    },
+    {
+        "Name": "Michael Blam",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Gastroenterology",
+        "Phone": "(562) 862-3656",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "David Blood",
+        "Speciality": "Interventional & Diagnostic Radiology",
+        "Gender": "Male",
+        "Expertise": "Radiology - Telemedicine",
+        "Phone": "(888) 662-5321",
+        "Education": "Advanced TeleRadiology*",
+        "Location": "6789 Quail Hill Pkwy #728"
+    },
+    {
+        "Name": "Jano Boghossian",
+        "Speciality": "Podiatric Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 264-6157",
+        "Education": "New Hope Podiatry Group",
+        "Location": " 3616 E. First Street"
+    },
+    {
+        "Name": "Armand Bouzaglou",
+        "Speciality": "Radiation Oncology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 900-2760",
+        "Education": null,
+        "Location": "8900 Wilshire Blvd"
+    },
+    {
+        "Name": "Karol Bowens",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 631-4445",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Hector Castillo",
+        "Speciality": "Family Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 264-5000",
+        "Education": "Elite Provider Network",
+        "Location": "212 Bailey Street"
+    },
+    {
+        "Name": "Arinder Chadha",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 881-2675",
+        "Education": null,
+        "Location": "1148 S Rowan Avenue "
+    },
+    {
+        "Name": "John Chan",
+        "Speciality": "Podiatric Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 476-7272",
+        "Education": "John Chan",
+        "Location": "6513 Atlantic Ave."
+    },
+    {
+        "Name": "Elbert Chang",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Nathaniel Chase",
+        "Speciality": "Critical Care Medicine",
+        "Gender": "Male",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(310) 295-0075",
+        "Education": "Pulmonary Consultants and Wellness Center, Inc.",
+        "Location": "501 East Hardy Street"
+    },
+    {
+        "Name": "Emiliano Chavira",
+        "Speciality": "Maternal and Fetal Medicine",
+        "Gender": "Male",
+        "Expertise": "Obstetrics and Gynecology",
+        "Phone": "(310) 603-2345",
+        "Education": "MFM Associates",
+        "Location": "3628 E Imperial Hwy"
+    },
+    {
+        "Name": "Chi  Cheang",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(657) 276-7080",
+        "Education": "Epic Medical Group",
+        "Location": "4955 Van Nuys Blvd"
+    },
+    {
+        "Name": "Gary Chen",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "Surgery of the Hand",
+        "Phone": "(213) 765-8088",
+        "Education": null,
+        "Location": "1513 S. Grand Ave."
+    },
+    {
+        "Name": "Wen-Yuan Chiang",
+        "Speciality": "Nephrology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 631-3502",
+        "Education": null,
+        "Location": "9844 Atlantic Ave."
+    },
+    {
+        "Name": "Bor-Han Chiu",
+        "Speciality": "Infectious Disease",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 734-8526",
+        "Education": null,
+        "Location": "11103 Venice Blvd"
+    },
+    {
+        "Name": "Johnny Choi",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(760) 713-6969",
+        "Education": null,
+        "Location": "12740 Hesperia Rd, Suite B"
+    },
+    {
+        "Name": "George Christides",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Kevin Chu",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 670-9119",
+        "Education": "Advanced Urology Medical Group",
+        "Location": "8540 S. Sepulveda Blvd"
+    },
+    {
+        "Name": "Michael Chung",
+        "Speciality": "Hematology",
+        "Gender": "Male",
+        "Expertise": "Oncology",
+        "Phone": "(310) 667-4000",
+        "Education": "The Oncology Institute of Hope and Innovation",
+        "Location": "3628 E. Imperial Hwy"
+    },
+    {
+        "Name": "Stevan Clark",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 757-1744",
+        "Education": null,
+        "Location": "10220 S. Western Avenue"
+    },
+    {
+        "Name": "Brittany Clark",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Female",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Michael Cogan",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 437-1882",
+        "Education": null,
+        "Location": "1045 Atlantic Ave suite 508"
+    },
+    {
+        "Name": "Rebecca Coleman",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Female",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 456-6920",
+        "Education": "CHOC - UC Irvine Medical Center",
+        "Location": "Neonatology"
+    },
+    {
+        "Name": "Annette Coronel-Perey",
+        "Speciality": "Pediatrics",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 532-5558",
+        "Education": null,
+        "Location": "1045 W Redondo Beach Blvd"
+    },
+    {
+        "Name": "Eric Crum",
+        "Speciality": "Oral and Maxillofacial Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(424) 338-1200",
+        "Education": null,
+        "Location": "1670 E 120th St"
+    },
+    {
+        "Name": "Chafik Dakak",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 604-0105",
+        "Education": null,
+        "Location": "3301 Beechwood Ave."
+    },
+    {
+        "Name": "Christopher Dalaten",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "Physician Assistant",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "Liberation De Leon",
+        "Speciality": "Pediatrics",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 633-5438",
+        "Education": "J & L De Leon Medical Corporation",
+        "Location": "16660 Paramount Blvd."
+    },
+    {
+        "Name": "Bernardita De Los Reyes",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 587-2222",
+        "Education": "Clinica Santa Isabel",
+        "Location": "2760 Florence Ave."
+    },
+    {
+        "Name": "Jaspreet Dhaliwal",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Ahmad Dudar",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pulmonary Medicine",
+        "Phone": "(562) 424-8000",
+        "Education": "Southern California Pulmonologists and Intensivists",
+        "Location": "3605 Long Beach Boulevard"
+    },
+    {
+        "Name": "John Duong",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Wilburn Durousseau",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 560-7966",
+        "Education": null,
+        "Location": "3660 E. Imperial Hwy."
+    },
+    {
+        "Name": "Diana Echeverry-Franck",
+        "Speciality": "Endocrinology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 635-6002",
+        "Education": "LA Endocrine Care Inc",
+        "Location": "3617 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Arthur Edelstein",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 638-0402",
+        "Education": null,
+        "Location": "3737 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Sami Edris",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Hossein Eftekhari",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Interventional Cardiology",
+        "Phone": "(562) 414-9846",
+        "Education": "LA Cardiology Inc.",
+        "Location": "11546 Downey Ave"
+    },
+    {
+        "Name": "Teshager Ejigu",
+        "Speciality": "Pulmonary Medicine",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 295-0075",
+        "Education": "Pulmonary Consultants and Wellness Center, Inc.",
+        "Location": "501 East Hardy Street"
+    },
+    {
+        "Name": "Mohamed El-Shahawy",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(323) 725-0051",
+        "Education": null,
+        "Location": "5830 Whittier Blvd."
+    },
+    {
+        "Name": "Joshua Ellenhorn",
+        "Speciality": "General Surgical Oncology",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 289-1518",
+        "Education": "Surgery Group of Los Angeles",
+        "Location": "8635 W. Third Street"
+    },
+    {
+        "Name": "Ersno Eromo",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "Orthopaedic Surgery- Spine",
+        "Phone": "(310) 929-6336",
+        "Education": null,
+        "Location": "1400 S Grand Ave"
+    },
+    {
+        "Name": "Jonathan Eskenazi",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 933-4590",
+        "Education": null,
+        "Location": "6363 Wilshire Boulevard Ste 516"
+    },
+    {
+        "Name": "Jari Faison",
+        "Speciality": "Pediatric Dentistry",
+        "Gender": "Female",
+        "Expertise": "Oral and Maxillofacial Surgery",
+        "Phone": "(310) 537-2217",
+        "Education": null,
+        "Location": "411 S. Long Beach Blvd."
+    },
+    {
+        "Name": "Kenneth Fan",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Amin Farah",
+        "Speciality": "Cardiology",
+        "Gender": "Male",
+        "Expertise": "Cardiovascular Disease",
+        "Phone": "(310) 604-0443",
+        "Education": "Cardio Medical Consultants Group",
+        "Location": "3737 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Azadeh Farin",
+        "Speciality": "Neurological Surgery",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 270-4849",
+        "Education": null,
+        "Location": "701 E. 28th St., #117"
+    },
+    {
+        "Name": "Soroush Farnoosh",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "Doralice Ferreira",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "10441 Lakewood Blvd"
+    },
+    {
+        "Name": "Andrew Florentino",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 605-4260",
+        "Education": "Pediatric Clinic",
+        "Location": "3585 E. Imperial Hwy."
+    },
+    {
+        "Name": "Gary Ford",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 329-8633",
+        "Education": null,
+        "Location": "1045 Redondo Beach Blvd."
+    },
+    {
+        "Name": "Andrew Fragen",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "Surgical Critical Care",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "David Friedberg",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(949) 767-0800",
+        "Education": "Southern California Orthopaedic Trauma Specialists, Inc.",
+        "Location": "24331 El Toro Road"
+    },
+    {
+        "Name": "Hugh Fulmer",
+        "Speciality": "Infectious Disease",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 605-0128",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Gaurav Garg",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "Surgical Critical Care",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Robert Giombetti",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 306-8876",
+        "Education": null,
+        "Location": "4560 Admiralty Way"
+    },
+    {
+        "Name": "Ignatius Godoy",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 634-9433",
+        "Education": null,
+        "Location": "16660 Paramount Blvd. Ste #206"
+    },
+    {
+        "Name": "Safieh Golestaneh",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Gol Golshani",
+        "Speciality": "Hematology",
+        "Gender": "Female",
+        "Expertise": "Oncology",
+        "Phone": "(562) 232-0550",
+        "Education": null,
+        "Location": "3300 E South St."
+    },
+    {
+        "Name": "Carmen Gonzales-Nate",
+        "Speciality": "Psychiatry",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 609-3890",
+        "Education": null,
+        "Location": "3737 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Eduardo Gonzalez",
+        "Speciality": "Family Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 763-1336",
+        "Education": null,
+        "Location": "3625 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Christopher Goring",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 900-4788",
+        "Education": "Joint Replacement Insitute",
+        "Location": "3630 E. Imperial Highway"
+    },
+    {
+        "Name": "Ramon Guadiz",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 638-0533",
+        "Education": "Renal Medical Associates",
+        "Location": "3625 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Narayana Gunda",
+        "Speciality": "Geriatric Medicine",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Kanav Gupta",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Carlos Guzman",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "James Habashy",
+        "Speciality": "Oral and Maxillofacial Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(424) 306-4264",
+        "Education": null,
+        "Location": "1000 W Carson St"
+    },
+    {
+        "Name": "Syed Hasan",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(818) 552-6230",
+        "Education": "Lakeside Community Healthcare",
+        "Location": "8510 Balboa Blvd., Suite 150"
+    },
+    {
+        "Name": "Christopher Hayes",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 900-4788",
+        "Education": "Premier Orthopaedic Trauma Specialists",
+        "Location": "St. Francis Medical Center"
+    },
+    {
+        "Name": "Gerald Henry",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 603-2345",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy"
+    },
+    {
+        "Name": "Diane Hermiz",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Munther Hijazin",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 861-1988",
+        "Education": "Prentice, Mitri and Hijazin Neurological Assoc",
+        "Location": "10916 Downey Ave."
+    },
+    {
+        "Name": "Win Win Hlaing",
+        "Speciality": "Nephrology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(323) 722-7418",
+        "Education": "The Kidney Specialists Medical Corp",
+        "Location": "101 E. Beverly Blvd."
+    },
+    {
+        "Name": "Andy Hong",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 763-7504",
+        "Education": null,
+        "Location": "3625 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Christopher Hoshino",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 912-7437",
+        "Education": "Christopher Hoshino MD Inc",
+        "Location": "2865 Atlantic Ave."
+    },
+    {
+        "Name": "Joseph Hsu",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 861-7291",
+        "Education": null,
+        "Location": "8333 Iowa St"
+    },
+    {
+        "Name": "Oswaldo Huerta Franco",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Physician Assistant",
+        "Phone": "(310) 537-1503",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Farabi Hussain",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(909) 921-0020",
+        "Education": null,
+        "Location": "557 N Central Ave"
+    },
+    {
+        "Name": "Tanvir Hussain",
+        "Speciality": "Cardiology",
+        "Gender": "Male",
+        "Expertise": "Cardiovascular Disease",
+        "Phone": "(310) 604-0443",
+        "Education": "Cardio Medical Consultants Group",
+        "Location": "3737 Martin Luther King Jr. Blvd."
+    },
+    {
+        "Name": "Nkechi Ikejiofor",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "10441 Lakewood Blvd"
+    },
+    {
+        "Name": "Samuel Im",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "Gynecologic Oncology",
+        "Phone": "(562) 789-5440",
+        "Education": null,
+        "Location": "12462 Putnam St"
+    },
+    {
+        "Name": "Kaushik Ivaturi",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Nephrology",
+        "Phone": "(562) 424-4447",
+        "Education": "ProHealth Partners A Medical Group Inc",
+        "Location": "2888 Long Beach Blvd., Suite 215"
+    },
+    {
+        "Name": "Javier Jardon",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "Opthalmology (Archived)",
+        "Phone": "(323) 749-8100",
+        "Education": null,
+        "Location": "4131 Slauson ave"
+    },
+    {
+        "Name": "Renu Jivrajka",
+        "Speciality": "Ophthalmology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 638-9391",
+        "Education": "Shammas Eye Medical Center and M/S Surgery Center",
+        "Location": "3510 Martin Luther King Jr Blvd"
+    },
+    {
+        "Name": "Thomas Johnson",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 674-6785",
+        "Education": null,
+        "Location": "9100 S. Sepulveda Blvd"
+    },
+    {
+        "Name": "Toni Johnson-Chavis",
+        "Speciality": "Pediatrics",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 774-6551",
+        "Education": "Toni D. Johnson-Chavis, MD, Inc",
+        "Location": "403 S. Long Beach Blvd."
+    },
+    {
+        "Name": "Navelle Jones",
+        "Speciality": "Pediatrics",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 774-6551",
+        "Education": "Toni D. Johnson-Chavis, MD, Inc",
+        "Location": "403 South Long Beach Boulevard"
+    },
+    {
+        "Name": "Wilbert Jordan",
+        "Speciality": "Infectious Disease",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 630-1415",
+        "Education": null,
+        "Location": "16660 Paramount Blvd."
+    },
+    {
+        "Name": "Poonam Kalkat",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Female",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Anjala Kanda",
+        "Speciality": "Podiatry",
+        "Gender": "Female",
+        "Expertise": "Podiatric Surgery",
+        "Phone": "(562) 923-0371",
+        "Education": null,
+        "Location": "9901 Paramount Blvd. #202"
+    },
+    {
+        "Name": "Frangis Karamedin",
+        "Speciality": "Pediatrics",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 609-1500",
+        "Education": null,
+        "Location": "3680 E. Imperial Hwy."
+    },
+    {
+        "Name": "Jon Kea",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Hospice and Palliative Medicine",
+        "Phone": "(310) 694-0425",
+        "Education": null,
+        "Location": "3630 East Imperial Hwy"
+    },
+    {
+        "Name": "Samia Khwaja",
+        "Speciality": "Nephrology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(323) 725-0051",
+        "Education": null,
+        "Location": "3621 MLK Blvd. Suite 6"
+    },
+    {
+        "Name": "Jennie Kim",
+        "Speciality": "General Surgery",
+        "Gender": "Female",
+        "Expertise": "Surgical Critical Care",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Alexander Knezevic",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 638-0402",
+        "Education": null,
+        "Location": "3737 Martin Luther King J"
+    },
+    {
+        "Name": "Som Kohanzadeh",
+        "Speciality": "Plastic Surgery",
+        "Gender": "Male",
+        "Expertise": "Plastic and Reconstructive Surgery",
+        "Phone": "(310) 975-9017",
+        "Education": null,
+        "Location": "250 N. Robertson Blvd."
+    },
+    {
+        "Name": "Sendhil Krishnan",
+        "Speciality": "Cardiology",
+        "Gender": "Male",
+        "Expertise": "Cardiovascular Disease",
+        "Phone": "(310) 604-0443",
+        "Education": "Cardio Medical Consultants Group",
+        "Location": "3737 Martin Luther King Jr. Blvd."
+    },
+    {
+        "Name": "Ashok Kumar",
+        "Speciality": "Pulmonary Medicine",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 675-4440",
+        "Education": "ACE Medical Group",
+        "Location": "4477 W. 118th St., Suite 200"
+    },
+    {
+        "Name": "Edward Kwon",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Thomas Kwong",
+        "Speciality": "Psychiatry",
+        "Gender": "Male",
+        "Expertise": "Psychiatry - Telemedicine",
+        "Phone": "(747) 998-0387",
+        "Education": "Alliance for Wellness / SoCal Mental Health",
+        "Location": "14860 Roscoe Blvd"
+    },
+    {
+        "Name": "Lesley Lawrenson",
+        "Speciality": "Radiation Oncology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 978-4970",
+        "Education": "South Bay Cancer Center",
+        "Location": "14608 Hawthorne Blvd."
+    },
+    {
+        "Name": "Sung  Lee",
+        "Speciality": "Interventional Cardiology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(818) 528-1260",
+        "Education": "Epic Cardiology ",
+        "Location": "4955 Van Nuys Blvd #308"
+    },
+    {
+        "Name": "Mark Lee",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 695-6988",
+        "Education": "Mark Lee M.D. Inc",
+        "Location": "11147 Washington Blvd."
+    },
+    {
+        "Name": "Brian Lee",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 763-7504",
+        "Education": "Kidney Specialists Medical Group",
+        "Location": "3625 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Daniel Lemay",
+        "Speciality": "Neurological Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 862-1134",
+        "Education": null,
+        "Location": "8043 2nd St."
+    },
+    {
+        "Name": "Jamie Lipeles",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 694-5255",
+        "Education": null,
+        "Location": "4560 Admiralty Way"
+    },
+    {
+        "Name": "Samuel Liu",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(951) 231-0738",
+        "Education": "Samuel Liu, MD, Inc.",
+        "Location": "210 W Bonita Ave #140"
+    },
+    {
+        "Name": "Minghsun Liu",
+        "Speciality": "Infectious Disease",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 734-8526",
+        "Education": null,
+        "Location": "11103 Venice Blvd."
+    },
+    {
+        "Name": "Bryan Love",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Stephen Lui",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 763-7504",
+        "Education": "Kidney Specialists Medical Group",
+        "Location": "3625 Martin Luther King Jr. Blvd."
+    },
+    {
+        "Name": "Paiboon Mahaisavariya",
+        "Speciality": "Cardiovascular Disease",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 869-1511",
+        "Education": "Cardiovascular Medical Associates",
+        "Location": "8317 Davis St."
+    },
+    {
+        "Name": "Ahmed Maki",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "Farshad Malekmehr",
+        "Speciality": "Thoracic and Cardiac Surgery",
+        "Gender": "Male",
+        "Expertise": "Thoracic Surgery",
+        "Phone": "(818) 908-9752",
+        "Education": null,
+        "Location": "16311 Ventura Blvd., Suite 1080"
+    },
+    {
+        "Name": "Sameer Malhotra",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "Other",
+        "Phone": "(310) 670-9119",
+        "Education": "Advanced Urology Medical Group",
+        "Location": "8540 S. Sepulveda Blvd"
+    },
+    {
+        "Name": "Tricia Manalastas",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Female",
+        "Expertise": "Physician Assistant",
+        "Phone": "(562) 912-7437",
+        "Education": "Daniel M. Zinar, MD, Inc.",
+        "Location": "2865 Atlantic Ave."
+    },
+    {
+        "Name": "Omkar Marathe",
+        "Speciality": "Hematology",
+        "Gender": "Male",
+        "Expertise": "Oncology",
+        "Phone": "(562) 264-5154",
+        "Education": "The Oncology Institute of Hope and Innovation",
+        "Location": "3851 Katella Ave.,"
+    },
+    {
+        "Name": "Jonathan Marehbian",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(424) 234-1118",
+        "Education": null,
+        "Location": "9763 W. Pico Blvd #200"
+    },
+    {
+        "Name": "Christopher Marrocco",
+        "Speciality": "Vascular Surgery",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(562) 698-0271",
+        "Education": "Vascular And Thoracic Associates of Los Angeles",
+        "Location": "1251 West Redondo Beach Boulevard"
+    },
+    {
+        "Name": "Marsha Martinson",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Dorsa Maryska",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "Nephrology",
+        "Phone": "(323) 722-7418",
+        "Education": "The Kidney Specialists Medical Corp",
+        "Location": "101 E. Beverly Blvd."
+    },
+    {
+        "Name": "Ryan Mayer",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 900-4788",
+        "Education": "Premier Orthopaedic Trauma Specialists",
+        "Location": "St. Francis Medical Center"
+    },
+    {
+        "Name": "K.N. Mbagwu",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(424) 800-2124",
+        "Education": null,
+        "Location": "501 E. Hardy St., Ste 110"
+    },
+    {
+        "Name": "Ricardo McKenzie",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 705-7730",
+        "Education": null,
+        "Location": "3630 E. Imperial Hwy"
+    },
+    {
+        "Name": "Michael McLean",
+        "Speciality": "Nurse Practitioner-Family Medicine",
+        "Gender": "Male",
+        "Expertise": "Thoracic and Cardiac Surgery",
+        "Phone": "(530) 242-6122",
+        "Education": "SRMG Cardiothoracic Surgery",
+        "Location": "1555 East Street, Suite 120"
+    },
+    {
+        "Name": "Joseph McQuirter",
+        "Speciality": "Oral and Maxillofacial Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(855) 413-5009",
+        "Education": "Joseph McQuirter DDS Inc",
+        "Location": "2690 Pacific Ave"
+    },
+    {
+        "Name": "Manish Mehta",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 639-4876",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy Suite 201"
+    },
+    {
+        "Name": "Akshay Mehta",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 419-8631",
+        "Education": null,
+        "Location": "501 E. Hardy St."
+    },
+    {
+        "Name": "Muhammad Memon",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 639-7200",
+        "Education": null,
+        "Location": "555 W. Compton Blvd."
+    },
+    {
+        "Name": "Abie Mendelsohn",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "Ryan Miller",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(909) 596-4346",
+        "Education": null,
+        "Location": "160 E Artesia Street"
+    },
+    {
+        "Name": "Devadatt Mishal",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-4579",
+        "Education": null,
+        "Location": "8500 Florence Ave Suite 200 "
+    },
+    {
+        "Name": "Antoine Mitri",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 861-1988",
+        "Education": "Prentice, Mitri and Hijazin Neurological Assoc",
+        "Location": "10916 Downey Ave."
+    },
+    {
+        "Name": "Raj Mittal",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 539-2630",
+        "Education": "Raj A. Mittal, MD., F.A.C.S.",
+        "Location": "4305 Torrance Boulevard"
+    },
+    {
+        "Name": "Benjamin Monroe",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 605-0048",
+        "Education": null,
+        "Location": "3628 E Imperial Hwy"
+    },
+    {
+        "Name": "Wilson Morales",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-7007",
+        "Education": null,
+        "Location": "Tender Care Community Clinic,Inc"
+    },
+    {
+        "Name": "Jose Morales",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "Vascular Neurology",
+        "Phone": "(310) 419-8610",
+        "Education": null,
+        "Location": "501 E. Hardy St #315"
+    },
+    {
+        "Name": "Gloria Morales",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Female",
+        "Expertise": "Pediatrics",
+        "Phone": "(562) 698-0811 xEt17529",
+        "Education": null,
+        "Location": "12401 Washington Blvd"
+    },
+    {
+        "Name": "Lewis Moss",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 900-4788",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy."
+    },
+    {
+        "Name": "Ayush Motwani ",
+        "Speciality": "Interventional Cardiology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(818) 528-1260",
+        "Education": "Epic Cardiology ",
+        "Location": "4955 Van Nuys Blvd #308"
+    },
+    {
+        "Name": "Ashkan Mowla",
+        "Speciality": "Vascular Neurology",
+        "Gender": "Male",
+        "Expertise": "Neurology",
+        "Phone": "(281) 620-5056",
+        "Education": null,
+        "Location": "1520 San Pablo Street , suite 3300"
+    },
+    {
+        "Name": "Krystal Neely",
+        "Speciality": "Pediatrics",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 774-6551",
+        "Education": "Toni D. Johnson-Chavis, MD, Inc",
+        "Location": "403 S. Long Beach Blvd."
+    },
+    {
+        "Name": "Emily Ng",
+        "Speciality": "Psychiatry",
+        "Gender": "Female",
+        "Expertise": "Psychiatry - Telemedicine",
+        "Phone": "(747) 998-0387",
+        "Education": "Alliance for Wellness / SoCal Mental Health",
+        "Location": "16260 Ventura Blvd, Suite 630"
+    },
+    {
+        "Name": "Yona Nicolau",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Female",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 456-6920",
+        "Education": "CHOC - UC Irvine Medical Center",
+        "Location": "Neonatology"
+    },
+    {
+        "Name": "Priscilla Nikoghossian",
+        "Speciality": "Otolaryngology",
+        "Gender": "Female",
+        "Expertise": "Physician Assistant",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "Bret Nolan",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Female",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 512-3939",
+        "Education": "CHOC Pediatric Subspecialty Faculty",
+        "Location": "505 S. Main Street"
+    },
+    {
+        "Name": "Anthony Ogundipe",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "Maternal and Fetal Medicine",
+        "Phone": "(310) 603-2345",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy"
+    },
+    {
+        "Name": "Sushil Ojha",
+        "Speciality": "Gastroenterology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 862-3656",
+        "Education": "Gastro-Digestive Medical Group",
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Bassam Omari",
+        "Speciality": "Thoracic and Cardiac Surgery",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(424) 306-4612",
+        "Education": "Harbor UCLA Medical Center",
+        "Location": "1000 W. Carson Street, Box 423"
+    },
+    {
+        "Name": "Osita Onugha",
+        "Speciality": "Thoracic and Cardiac Surgery",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(424) 625-5864",
+        "Education": null,
+        "Location": "3831 Hughes Ave, Suite 105"
+    },
+    {
+        "Name": "Aaron Ovadia",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 670-9119",
+        "Education": "Advanced Urology Medical Group",
+        "Location": "8540 S. Sepulveda Blvd"
+    },
+    {
+        "Name": "Twyman Owens",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "Pediatric Cardiology",
+        "Phone": "(310) 635-6181",
+        "Education": "Childrens Cardiac Diagnostics and Medical Associates",
+        "Location": "3680 E. Imperial Hwy."
+    },
+    {
+        "Name": "LeeJoe Pallickal",
+        "Speciality": "Critical Care",
+        "Gender": "Male",
+        "Expertise": "Pulmonary Medicine",
+        "Phone": "(323) 763-1300",
+        "Education": null,
+        "Location": "3224 Santa Ana St"
+    },
+    {
+        "Name": "Hemant Pande",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Gastroenterology",
+        "Phone": "(562) 862-3656",
+        "Education": "Gastro-Digestive Medical Group",
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Potenciano Paredes",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 679-0269",
+        "Education": null,
+        "Location": "15901 Hawthorne Blvd"
+    },
+    {
+        "Name": "Amar Parikh",
+        "Speciality": "Hematology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 961-2694",
+        "Education": null,
+        "Location": "21605 Hawthorne Blvd"
+    },
+    {
+        "Name": "Devang Patel",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 509-3096",
+        "Education": null,
+        "Location": "1201 W. La Veta Ave"
+    },
+    {
+        "Name": "Sapna Patel",
+        "Speciality": "Nephrology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 424-4447",
+        "Education": "ProHealth Partners A Medical Group, Inc",
+        "Location": "2888 Long Beach Blvd."
+    },
+    {
+        "Name": "Paryus Patel",
+        "Speciality": "Pulmonary Disease",
+        "Gender": "Male",
+        "Expertise": "Critical Care Medicine",
+        "Phone": "(310) 295-0075",
+        "Education": "Pulmonary Consultants and Wellness Center",
+        "Location": "501 East Hardy Street"
+    },
+    {
+        "Name": "Baminihannadige Peiris",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(818) 654-4321",
+        "Education": "Regal & Lakeside Medical Groups",
+        "Location": "8510 Balboa Boulevard"
+    },
+    {
+        "Name": "William Perkins",
+        "Speciality": "Pediatric Critical Care Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 966-7253",
+        "Education": null,
+        "Location": "17100 Euclid St."
+    },
+    {
+        "Name": "Loy Pham",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-4579",
+        "Education": null,
+        "Location": "8500 Florence Ave."
+    },
+    {
+        "Name": "Nathan Pierce",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "John Pinches",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 596-5566",
+        "Education": "Los Alamitos OB/GYN Medical Group, Inc.",
+        "Location": "8615 Knott Ave., Ste. #5"
+    },
+    {
+        "Name": "Vimal Ponnezhan",
+        "Speciality": "Critical Care",
+        "Gender": "Male",
+        "Expertise": "Pulmonary Medicine",
+        "Phone": "(323) 763-1300",
+        "Education": null,
+        "Location": "3224 Santa Ana St., Ste A"
+    },
+    {
+        "Name": "Daley Portillo",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "Physician Assistant",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Shahin Pourrabbani",
+        "Speciality": "Vascular Surgery",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(562) 698-0271",
+        "Education": "Vascular And Thoracic Associates of Los Angeles",
+        "Location": "1251 West Redondo Beach Boulevard"
+    },
+    {
+        "Name": "Jonathan Pryor",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(562) 981-6933",
+        "Education": null,
+        "Location": "11200 Long Beach Blvd."
+    },
+    {
+        "Name": "David Razi",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(310) 677-9400",
+        "Education": "West Century Medical Center",
+        "Location": "3451 W. Century Blvd."
+    },
+    {
+        "Name": "Sandeep Reddy",
+        "Speciality": "Hematology",
+        "Gender": "Male",
+        "Expertise": "Oncology",
+        "Phone": "(855) 797-9277",
+        "Education": null,
+        "Location": "2040 E Mariposa Ave"
+    },
+    {
+        "Name": "Sridhar Reddy",
+        "Speciality": "Interventional Cardiology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(818) 528-1260",
+        "Education": "Epic Cardiology ",
+        "Location": "4955 Van Nuys Blvd #308"
+    },
+    {
+        "Name": "Rodrigo Rocha",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 638-0533",
+        "Education": null,
+        "Location": "3625 E. MLK Jr. Blvd."
+    },
+    {
+        "Name": "Dmitriy Romanenko",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 904-6033",
+        "Education": "Crown Medical",
+        "Location": "545 S. Alvarado St."
+    },
+    {
+        "Name": "Antonio Romero",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "Orthopaedic Surgery- Spine",
+        "Phone": "(323) 749-6555",
+        "Education": null,
+        "Location": "10230 E. Artesia Blvd"
+    },
+    {
+        "Name": "David Rosenberg",
+        "Speciality": "Plastic and Reconstructive Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 295-7925",
+        "Education": "Rosenberg Plastic Surgery",
+        "Location": "145 N Roberson Blvd"
+    },
+    {
+        "Name": "Ronald Rosso",
+        "Speciality": "Plastic and Reconstructive Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 326-3636",
+        "Education": "Peninsula Plastic Surgery",
+        "Location": "3400 Lomita"
+    },
+    {
+        "Name": "Saloomeh Saati",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 638-0402",
+        "Education": null,
+        "Location": "3737 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Hani Salehi-Had",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(714) 901-2006",
+        "Education": null,
+        "Location": "7812 Edinger Ave. Ste. 202"
+    },
+    {
+        "Name": "Irma Salguero Ortiz",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "Infectious Disease",
+        "Phone": "(310) 223-1429",
+        "Education": null,
+        "Location": "3625 Martin Luther King Jr Blvd "
+    },
+    {
+        "Name": "Dennis Sanchez",
+        "Speciality": "Family Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 566-1700",
+        "Education": null,
+        "Location": "3529 Firestone Blvd."
+    },
+    {
+        "Name": "Nancy Sand",
+        "Speciality": "Ophthalmology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 272-4277",
+        "Education": null,
+        "Location": "16415 Colorado Ave."
+    },
+    {
+        "Name": "Varneet Sandhu",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Ruchi Sareen",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "James Saunders",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 537-1221",
+        "Education": "James E. Saunders, M.D., INC.",
+        "Location": "3737 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Oran Schachter",
+        "Speciality": "Podiatry",
+        "Gender": "Male",
+        "Expertise": "Podiatric Surgery",
+        "Phone": "(310) 919-4179",
+        "Education": null,
+        "Location": "250 N Robertson Blvd"
+    },
+    {
+        "Name": "Michael Scott",
+        "Speciality": "Pediatric-Urology",
+        "Gender": "Male",
+        "Expertise": "Urology",
+        "Phone": "(310) 537-9230",
+        "Education": null,
+        "Location": "3637 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Douglas Segal",
+        "Speciality": "Cardiology",
+        "Gender": "Male",
+        "Expertise": "Cardiovascular Disease",
+        "Phone": "(562) 414-9846",
+        "Education": "LA Cardiology Inc.",
+        "Location": "11546 Downey Ave"
+    },
+    {
+        "Name": "Natalie Seiser",
+        "Speciality": "General Surgical Oncology",
+        "Gender": "Female",
+        "Expertise": "General Surgery",
+        "Phone": "(747) 294-7563",
+        "Education": null,
+        "Location": "3628 E. Imperial Highway "
+    },
+    {
+        "Name": "Pradeep Selvan",
+        "Speciality": "Vascular Neurology",
+        "Gender": "Male",
+        "Expertise": "Neurology",
+        "Phone": "(310) 419-8610",
+        "Education": null,
+        "Location": "501 E Hardy St. "
+    },
+    {
+        "Name": "Jamshid Shafai",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 562-3500",
+        "Education": null,
+        "Location": "7601 Atlantic Ave."
+    },
+    {
+        "Name": "M. Mohsin Shah",
+        "Speciality": "Neurological Surgery",
+        "Gender": "Male",
+        "Expertise": "Neurology",
+        "Phone": "(562) 862-1134",
+        "Education": null,
+        "Location": "8043 2nd Street, Suite 105"
+    },
+    {
+        "Name": "Mona Shah",
+        "Speciality": "Internal Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 548-0201",
+        "Education": null,
+        "Location": "1600 S. Gaffey St."
+    },
+    {
+        "Name": "Mona Shah",
+        "Speciality": "General Surgery",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 900-5010",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy."
+    },
+    {
+        "Name": "Maya Shammas",
+        "Speciality": "Ophthalmology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 638-9391",
+        "Education": "Shammas Eye Medical Center and M/S Surgery Center",
+        "Location": "3510 Martin Luther King Jr Blvd"
+    },
+    {
+        "Name": "Hanna Shammas",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 638-9391",
+        "Education": "Shammas Eye Medical Center and M/S Surgery Center",
+        "Location": "3510 Martin Luther King Jr Blvd"
+    },
+    {
+        "Name": "Imran Sharief",
+        "Speciality": "Sleep Medicine",
+        "Gender": "Male",
+        "Expertise": "Pulmonary Medicine",
+        "Phone": "(714) 486-2153",
+        "Education": "Pulmonary Consultants and Wellness Center, Inc.",
+        "Location": "14642 Newport Blvd, #250"
+    },
+    {
+        "Name": "Anil Sharma",
+        "Speciality": "Psychiatry",
+        "Gender": "Male",
+        "Expertise": "Psychiatry - Telemedicine",
+        "Phone": "(747) 998-0387",
+        "Education": "Alliance for Wellness, Inc.",
+        "Location": "16260 Ventura Blvd., #630"
+    },
+    {
+        "Name": "Sylvia Shaw",
+        "Speciality": "Endocrinology, Diabetes and Metabolism",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 537-6397",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Emile Shenouda",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 566-4411",
+        "Education": null,
+        "Location": "10132 California Ave."
+    },
+    {
+        "Name": "Helen Shnol",
+        "Speciality": "Podiatric Surgery",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 919-4179",
+        "Education": null,
+        "Location": "250 N Robertson Blvd."
+    },
+    {
+        "Name": "Mohammad Siddiqui",
+        "Speciality": "Family Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(909) 464-8722",
+        "Education": "Desert Valley Medical Group - Chino",
+        "Location": "5450 Jefferson Ave, Suite 3"
+    },
+    {
+        "Name": "Chad Sila",
+        "Speciality": "Radiation Oncology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 978-4970",
+        "Education": "South Bay Cancer Center",
+        "Location": "14608 Hawthorne Blvd."
+    },
+    {
+        "Name": "Jack Sills",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 509-8632",
+        "Education": null,
+        "Location": "1201 W. La Veta Ave."
+    },
+    {
+        "Name": "Jessica Simpson",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave Ste. 112"
+    },
+    {
+        "Name": "Anantjit Singh",
+        "Speciality": "Cardiology",
+        "Gender": "Male",
+        "Expertise": "Clinical Cardiac Electrophysiology",
+        "Phone": "(562) 923-2466",
+        "Education": "LA Cardiology Inc.",
+        "Location": "11546 Downey Ave"
+    },
+    {
+        "Name": "Willy Singh",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(323) 722-7418",
+        "Education": "The Kidney Specialists Medical Corp",
+        "Location": "101 E. Beverly Blvd."
+    },
+    {
+        "Name": "Shaun Singh",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Ravinder Singh",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "Psychiatry",
+        "Phone": "(310) 990-8089",
+        "Education": "Singh Neurology Medical Associates",
+        "Location": "415 N. Crescent Dr. Suite 110"
+    },
+    {
+        "Name": "Andrew Singleton",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Joseph Sirody",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Blair Smart",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Nathanael Smith",
+        "Speciality": "Podiatric Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 804-1381",
+        "Education": null,
+        "Location": "5220 Clark Ave"
+    },
+    {
+        "Name": "John Terence So",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 869-1070",
+        "Education": "Optum",
+        "Location": "11525 Brookshire Avenue"
+    },
+    {
+        "Name": "Brian Sorto",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "",
+        "Education": "",
+        "Location": ""
+    },
+    {
+        "Name": "Debra Stafford",
+        "Speciality": "Plastic and Reconstructive Surgery",
+        "Gender": "Female",
+        "Expertise": "General Surgery",
+        "Phone": "(323) 954-9161",
+        "Education": null,
+        "Location": "6051 W. San Vicente Blvd."
+    },
+    {
+        "Name": "Donald Stevenson",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 674-1211",
+        "Education": null,
+        "Location": "575 E. Hardy Street "
+    },
+    {
+        "Name": "Aaron Strumwasser",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Medardo Supnet",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Male",
+        "Expertise": "Pediatrics",
+        "Phone": "(310) 605-4260",
+        "Education": "Pediatric Clinic",
+        "Location": "3585 E. Imperial Hwy."
+    },
+    {
+        "Name": "Meher Tabatabai",
+        "Speciality": "Infectious Disease",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 537-1503",
+        "Education": null,
+        "Location": "3621 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Chong Tak",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 637-0677",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy."
+    },
+    {
+        "Name": "Kaushal Tamboli",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Cardiovascular Disease",
+        "Phone": "(562) 869-1511",
+        "Education": "Cardiovascular Medical Associates",
+        "Location": "8317 Davis St."
+    },
+    {
+        "Name": "Jason Tani",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(760) 552-8585",
+        "Education": "Sports Medicine and Orthopaedic Institute, Inc.",
+        "Location": "13010 Hesperia Rd."
+    },
+    {
+        "Name": "Maged Tanios",
+        "Speciality": "Pulmonary Medicine",
+        "Gender": "Male",
+        "Expertise": "Critical Care Medicine",
+        "Phone": "(562) 424-8000",
+        "Education": "Southern California Pulmonologists and Intensivists",
+        "Location": "3605 Long Beach Boulevard"
+    },
+    {
+        "Name": "James Tatum",
+        "Speciality": "Surgical Critical Care",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(310) 554-4127",
+        "Education": "Desert Trauma Surgeons",
+        "Location": "3628 E. Imperial Hwy, Suite 408"
+    },
+    {
+        "Name": "Khaled Tawansy",
+        "Speciality": "Ophthalmology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 257-3937",
+        "Education": null,
+        "Location": "7447 N. Figueroa Street"
+    },
+    {
+        "Name": "Kiriaki  Taylor  ",
+        "Speciality": "Wound Care",
+        "Gender": "Female",
+        "Expertise": "Physician Assistant",
+        "Phone": "(818) 205-1995",
+        "Education": null,
+        "Location": "4911 Van Nuys Blvd"
+    },
+    {
+        "Name": "Bhavik Thakkar",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "",
+        "Education": "",
+        "Location": ""
+    },
+    {
+        "Name": "Denacel Tolentino",
+        "Speciality": "Critical Care Medicine",
+        "Gender": "Female",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(310) 295-0075",
+        "Education": "Pulmonary Consultants and Wellness Center, Inc.",
+        "Location": "501 East Hardy Street"
+    },
+    {
+        "Name": "Nickolas Tomasic",
+        "Speciality": "Urology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 670-9119",
+        "Education": "Advanced Urology Medical Group",
+        "Location": "8540 S. Sepulveda Blvd"
+    },
+    {
+        "Name": "Jose Torreblanca",
+        "Speciality": "Pediatrics",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 564-4408",
+        "Education": null,
+        "Location": "10001 California Ave."
+    },
+    {
+        "Name": "Meghan Torres",
+        "Speciality": "Thoracic and Cardiac Surgery",
+        "Gender": "Female",
+        "Expertise": "Physician Assistant",
+        "Phone": "(855) 727-2251",
+        "Education": "Physician Assistant Specialists of CA",
+        "Location": "22431 Antonio Parkway"
+    },
+    {
+        "Name": "Ngoc-Tram Tran",
+        "Speciality": "Nephrology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(562) 424-4447",
+        "Education": "ProHealth Partners A Medical Group, Inc.",
+        "Location": "2888 Long Beach Blvd."
+    },
+    {
+        "Name": "Geoffrey Trenkle",
+        "Speciality": "Otolaryngology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 268-6731",
+        "Education": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+        "Location": "1700 East Cesar E Chavez Avenue"
+    },
+    {
+        "Name": "Wilbur Troutman",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 631-9988",
+        "Education": null,
+        "Location": "3660 E. Imperial Hwy."
+    },
+    {
+        "Name": "Phuong Truong-Yue",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 869-4579",
+        "Education": null,
+        "Location": "8500 Florence Ave Suite 200 "
+    },
+    {
+        "Name": "Tony Tseng",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 763-1300",
+        "Education": null,
+        "Location": "3224 Santa Ana Street"
+    },
+    {
+        "Name": "Thuc Tu",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(714) 898-9635",
+        "Education": null,
+        "Location": "6552 Bolsa Ave."
+    },
+    {
+        "Name": "Nnaemeka Udoh",
+        "Speciality": "General Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(323) 298-0455",
+        "Education": null,
+        "Location": "3314 W. Vernon Ave."
+    },
+    {
+        "Name": "Cherry Uy",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Female",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 456-6933",
+        "Education": "CHOC - UC Irvine Medical Center",
+        "Location": "3800 Chapman Ave"
+    },
+    {
+        "Name": "Stacey Valdez",
+        "Speciality": "Podiatric Surgery",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(323) 264-6157",
+        "Education": "New Hope Podiatry Group",
+        "Location": " 3616 E. First Street"
+    },
+    {
+        "Name": "Virginia Villegas",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "Nurse Practitioner",
+        "Phone": "(562) 904-6031",
+        "Education": "All Safe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Thanh-Thao Thi Vu",
+        "Speciality": "Ophthalmology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(310) 638-9391",
+        "Education": "Shammas Eye Medical Center and M/S Surgery Center",
+        "Location": "3510 Martin Luther King Jr Blvd"
+    },
+    {
+        "Name": "Mailinh Vu",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Olukemi Wallace",
+        "Speciality": "Oncology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 644-8400",
+        "Education": null,
+        "Location": "2220 Manchester Blvd."
+    },
+    {
+        "Name": "Jamie Weiss",
+        "Speciality": "Cardiology",
+        "Gender": "Female",
+        "Expertise": "Cardiovascular Disease",
+        "Phone": "(310) 604-0443",
+        "Education": "Cardio Medical Consultants Group",
+        "Location": "3737 MLK Jr. Blvd."
+    },
+    {
+        "Name": "Joy Wells",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "Physician Assistant",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Emilia Wobga-Pasiah",
+        "Speciality": "Family Medicine",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(213) 279-1220",
+        "Education": "Epic Medical Group",
+        "Location": "4955 Van Nuys Blvd"
+    },
+    {
+        "Name": "Stuart Wolf",
+        "Speciality": "Family Medicine",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 223-1444",
+        "Education": "Stuart Wolf  MD",
+        "Location": "3625 E. MLK Jr. Blvd."
+    },
+    {
+        "Name": "James Wu",
+        "Speciality": "Thoracic Surgery",
+        "Gender": "Male",
+        "Expertise": "General Surgery",
+        "Phone": "(626) 666-5820",
+        "Education": "So Cal Thoracic Surgical Associates, Inc.",
+        "Location": "260 S. Los Robles Ave"
+    },
+    {
+        "Name": "Sean Xie",
+        "Speciality": "Neurological Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(213) 977-1102",
+        "Education": null,
+        "Location": "1414 S. Grand Ave"
+    },
+    {
+        "Name": "Sasan Yadegar",
+        "Speciality": "Neurological Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(310) 673-7724",
+        "Education": null,
+        "Location": "501 East Hardy Street"
+    },
+    {
+        "Name": "Malvin Yan",
+        "Speciality": "Internal Medicine",
+        "Gender": "Male",
+        "Expertise": "Nephrology",
+        "Phone": "(310) 886-0869",
+        "Education": "Dr. Malvin Yan, Inc",
+        "Location": "9844 Atlantic Ave."
+    },
+    {
+        "Name": "Sita Yanamadala",
+        "Speciality": "Nephrology",
+        "Gender": "Female",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 638-0533",
+        "Education": "Renal Medical Associates",
+        "Location": "3625 E. MLK Jr. Blvd."
+    },
+    {
+        "Name": "Helen Yang",
+        "Speciality": "Obstetrics and Gynecology",
+        "Gender": "Female",
+        "Expertise": "",
+        "Phone": "(562) 904-6031",
+        "Education": "AllSafe Medical Group",
+        "Location": "8077 Florence Ave"
+    },
+    {
+        "Name": "Paul Yoshino",
+        "Speciality": "Cardiovascular Disease",
+        "Gender": "Male",
+        "Expertise": "Interventional Cardiology",
+        "Phone": "(562) 869-1511",
+        "Education": "Cardiovascular Medical Associates",
+        "Location": "8317 Davis St."
+    },
+    {
+        "Name": "Teddy Youn",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "Vascular Neurology",
+        "Phone": "",
+        "Education": "",
+        "Location": ""
+    },
+    {
+        "Name": "Chibong Yu",
+        "Speciality": "Infectious Disease",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(626) 515-4130",
+        "Education": null,
+        "Location": "1023 Whispering Oaks Dr."
+    },
+    {
+        "Name": "Amirhossein Zangiabadi",
+        "Speciality": "Neurology",
+        "Gender": "Male",
+        "Expertise": "Vascular Neurology",
+        "Phone": "(424) 346-0015",
+        "Education": null,
+        "Location": "3630 E. Imperial Hwy."
+    },
+    {
+        "Name": "Mehdi Zargarian",
+        "Speciality": "Cardiovascular Disease",
+        "Gender": "Male",
+        "Expertise": "Clinical Cardiac Electrophysiology",
+        "Phone": "(562) 861-6371",
+        "Education": null,
+        "Location": "8423 Florence Ave."
+    },
+    {
+        "Name": "Anne Zepeda-Tiscareno",
+        "Speciality": "Neonatal-Perinatal Medicine",
+        "Gender": "Female",
+        "Expertise": "Pediatrics",
+        "Phone": "(714) 512-3939",
+        "Education": "CHOC Pediatric Subspecialty Faculty",
+        "Location": "505 S. Main Street"
+    },
+    {
+        "Name": "Manuel Zevallos",
+        "Speciality": "Hematology",
+        "Gender": "Male",
+        "Expertise": "Oncology",
+        "Phone": "(310) 667-4000",
+        "Education": null,
+        "Location": "3628 E. Imperial Hwy., Suite 401"
+    },
+    {
+        "Name": "Daniel Zinar",
+        "Speciality": "Orthopaedic Surgery",
+        "Gender": "Male",
+        "Expertise": "",
+        "Phone": "(562) 912-7437",
+        "Education": null,
+        "Location": "2865 Atlantic Ave."
+    },
+    {
+        "Name": "Brian Zwecker",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(323) 722-7418",
+        "Education": "The Kidney Specialists Medical Corp",
+        "Location": "101 E. Beverly Blvd."
+    },
+    {
+        "Name": "Adegbenga Adetola",
+        "Speciality": "Nephrology",
+        "Gender": "Male",
+        "Expertise": "Internal Medicine",
+        "Phone": "(310) 631-2838",
+        "Education": null,
+        "Location": "3737 MLK, Jr. Blvd."
+    }
+]
